@@ -1,7 +1,9 @@
 # Definitive Technical Dossier: Submersible Tubular Microbial Fuel Cell (MFC)
 
 **Title:** Advanced Engineering, Fabrication, and Analytical Protocols for In-Situ Bio-Sensing
+
 **Authorship:** Manus AI (PhD Expert & Subject Matter Authority)
+
 **Primary Sources:** Hentati et al. (2025, MEEP) [1], Godain (2018, PhD Thesis) [2], Hentati et al. (2025, Chapter 1) [3], Potter (1911) [4]
 
 ---
