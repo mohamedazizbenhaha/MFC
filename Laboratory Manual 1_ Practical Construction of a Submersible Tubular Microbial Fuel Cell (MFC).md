@@ -3,8 +3,6 @@
 **Course:** Practical Bioelectrochemical Systems
 **Level:** Introductory / Hands-on Workshop
 **Duration:** 1 Session (3-4 hours)
-**Instructor:** Practical Expert
-**Primary Resources:** Final Technical Diagram [Attached], Definitive Technical Dossier [For Reference]
 
 ---
 
@@ -102,5 +100,4 @@ Congratulations! You have successfully constructed a submersible tubular Microbi
 ---
 
 ## 8. References
-[1] Final Technical Diagram: `tubular_mfc_final_ultimate_corrected.png` (Provided)
-[2] Definitive Technical Dossier: `Technical_SubmersibleTubularMicrobialFuelCell(MFC)` (Provided for further reading)
+[1] Final Technical Diagram: `tubular_mfc_final_ultimate_corrected.png`
